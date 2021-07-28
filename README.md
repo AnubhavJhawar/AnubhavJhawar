@@ -4,7 +4,7 @@
 ## I'm a Student , Learner, Developer, and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute  to Open Source projects and develope backend skills
+- 🥅 2021 Goals: Contribute  to Open Source projects and develop backend skills
 - ⚡ Fun fact: I love to play and watch cricket matches.
 
 <hr>
